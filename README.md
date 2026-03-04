@@ -12,19 +12,19 @@ Apart from studies, I loved art 🎨 and sports ⚽ classes. My parents are both
 
 From early on, I identified the things I loved as an individual:
 
-Physical activities and outdoors 🏃‍♂️🌿
+- Physical activities and outdoors 🏃‍♂️🌿
 
-Love for nature 🌳🐦
+- Love for nature 🌳🐦
 
-Curiosity to discover something new 🔍
+- Curiosity to discover something new 🔍
 
-Observation and awareness 👁️
+- Observation and awareness 👁️
 
-Practical learning 🛠️
+- Practical learning 🛠️
 
-Connecting with new people and cultures beyond national boundaries
+- Connecting with new people and cultures beyond national boundaries
 
-Leave it better than found principle 🌱
+- Leave it better than found principle 🌱
 
 2. Graduation and Post-Graduation 🎓
 
@@ -36,19 +36,19 @@ Key influencers:
 
 Gaps:
 
-Research, policies, and solutions often do not reach the people who need them most or the places where the problem is happening first-hand. We already have solutions for many of the problems we face today; it is a matter of connecting the dots.
+- Research, policies, and solutions often do not reach the people who need them most or the places where the problem is happening first-hand. We already have solutions for many of the problems we face today; it is a matter of connecting the dots.
 
-Biodiversity is declining, and nobody is sensing or understanding the depth of the issue we are facing.
+- Biodiversity is declining, and nobody is sensing or understanding the depth of the issue we are facing.
 
-Pollution, climate change, habitat loss, illegal trade, and deforestation are outcomes of certain needs and can be seen as secondary problems. (Ask me what the primary problem is whenever we meet 🙂)
+- Pollution, climate change, habitat loss, illegal trade, and deforestation are outcomes of certain needs and can be seen as secondary problems. (Ask me what the primary problem is whenever we meet 🙂)
 
-Travel ✈️ – seeing different landscapes, animals 🐘, and ecosystems.
+- Travel ✈️ – seeing different landscapes, animals 🐘, and ecosystems.
 
-People/Mentors 👩‍🏫 – finding new teachers and guides who continue to inspire me.
+- People/Mentors 👩‍🏫 – finding new teachers and guides who continue to inspire me.
 
-Events 🦋 – migratory birds navigating and visiting, conflicts like tigers in urban areas or forest–village balance, vultures losing habitats, lantana covering local species, Monarch Butterfly Migration, etc.
+- Events 🦋 – migratory birds navigating and visiting, conflicts like tigers in urban areas or forest–village balance, vultures losing habitats, lantana covering local species, Monarch Butterfly Migration, etc.
 
-Turning points 💡 – realizing science can protect ecosystems and influence policy.
+- Turning points 💡 – realizing science can protect ecosystems and influence policy.
 
 4. Planning the Steps / Career Path 🛤️
 
@@ -58,13 +58,13 @@ Approach and thought process: identify interests, find opportunities, build skil
 
 First Break 🌟
 
-India – Samavesh: Biodiversity Specialist
+- India – Samavesh: Biodiversity Specialist
 
-Training communities 🗣️, bird watching 🐦, vulture and tiger census 🐯, awareness campaigns, Earth Hour pledges 🌍.
+    Training communities 🗣️, bird watching 🐦, vulture and tiger census 🐯, awareness campaigns, Earth Hour pledges 🌍.
 
-Australia – Bush It: Bush Regenerator / Environmental Field Officer
+- Australia – Bush It: Bush Regenerator / Environmental Field Officer
 
-Learning fieldwork 🌿, ecological restoration 🛠️, and practical environmental management.
+    Learning fieldwork 🌿, ecological restoration 🛠️, and practical environmental management.
 
 Qualifications and contacts guided each transition. I focused on practical learning and communication, which helped me move step by step.
 
@@ -82,15 +82,15 @@ Taking the unknown path: Building new career streams for ecologists in data scie
 
 I also battled societal questions and concerns, but most of us have our own battles, so I will not go into details:
 
-Are you smart enough to take science? 🤔
+- Are you smart enough to take science? 🤔
 
-There is no career in biology other than doctors? 🩺
+- There is no career in biology other than doctors? 🩺
 
-Why not IAS if you want to bring change? 🏛️
+- Why not IAS if you want to bring change? 🏛️
 
-What if things don’t happen as planned? ⚡
+- What if things don’t happen as planned? ⚡
 
-Go for safer or comfortable options? 🛋️
+- Go for safer or comfortable options? 🛋️
 
 7. Current Work 🔬
 
