@@ -110,25 +110,12 @@ Subject matter expertise: core ideology, theoretical ecology, improving observat
 
 Project-based work depends on the project phase. My week often looks like this 🗓️:
 
-Day
-
-Activities
-
-Mon–Tue
-
-Communication and support 🗣️
-
-Wed
-
-Workflows and models 💻
-
-Thu
-
-Meetings and readings 📖
-
-Fri
-
-Testing and team check-ins ✅
+| Day | Activities |
+|-----|-----------|
+| **Mon-Tue** | Communication and support 🗣️ |
+| **Wed** | Workflows and models 💻 |
+| **Thu** | Meetings and readings 📖 |
+| **Fri** | Testing and team check-ins ✅ |
 
 A day can be very different depending on tasks. Generally, I start with emails, communication, and reading until noon, document research or code in the afternoon, and check on teammates before wrapping up the day.
 
