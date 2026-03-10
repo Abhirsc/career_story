@@ -70,6 +70,26 @@ Qualifications and contacts guided each transition. I focused on practical learn
 
 ## 5. First Roles and Transition 🌍
 
+I worked with a NGO Samavesh and local organisations while I was studying my BS, which I came across during a long time volunteering with WWF-MPCG. This helped me build a good network and host and participate in numerous events. We were hosting events and inviting more volunteers. One of the volunteers was an employee of Samavesh, and our conversations revealed the type of work and funding information. I started writing environmental and ecological articles for building teaching resources for primary and secondary schools and started working casually on a project basis as an Environmental Science Specialist. It involved reading current research and building educational content to give students exposure and experience that schools cannot provide. While doing this, I was also applying for other jobs as this was not on a regular basis. I was almost ready to take a job as a Zoological researcher in Bangalore, but the salary was very low for surviving in a big city. This made me think it through and apply overseas to study further. At that time, I felt I would need more international study and networking to gain experience and skills, as I knew ecology had career opportunities overseas but not much in India in 2017. My plan was quite clear to proceed, act, and trust my research.
+
+I got 10 + 15% scholarships for my background and extracurricular certificates at Griffith University. I also received some rejections due to unexplained gaps (when I was fighting for the year-wise mark sheet). But I was glad in the end with what I got and where I got it. Brisbane was just phenomenal for students or anyone seeing Australia first-hand. It is a welcoming and sharing community with people from diverse backgrounds, and everyone supports each other. As Bhopal gave me freedom of thought, Brisbane helped bring my personality out in colours from a single-tone lifestyle. It was not easy at the start, but now I will say it was worth every bit.
+
+While studying, I was doing some odd jobs, but due to COVID, a lot changed and I was not ready for it at all. I got laid off from some casual jobs, was underpaid in others, and another job did not pay me at all. My university library closed, for which I had rented a room quite close by, and everything went online. I was quite frustrated about the situation because after so many problems I was finally where I wanted to be, but I was not able to attend lectures properly or make connections. Devastated, I started moving around and finding jobs. I came across a friend who needed help in his job, and I said yes. Fortunately, it was related to my field of Environmental Services. I enjoyed driving and setting up sensors for data collection and started a casual job again. It was good, but I wanted to do more. From here again, I took a different and less taken path.
+
+It isn’t like I didn’t apply for every job that students were competing for. I also worked in cafes, as a kitchen hand, and other roles. But I wanted my part-time work to align with what I was studying, not just to pay bills. Something related to Environmental Science… while many students were applying for Uber Eats, cafes, retail, picker-packer, or mover jobs.
+
+I went inward to ask the questions: what I want from the job and how it should be. When I picked my Master’s course, I was sure that I had to zoom out in my field rather than zoom in to specialise immediately. I wanted to understand ecological communities, food webs, and balances around me. I also applied for many field and council jobs but didn’t hear back from anyone at that time. I went more basic to start understanding tools and techniques used in planting and maintaining gardens. I started looking for “small” gardening businesses that could use a helper so I could spend more time outdoors with plants. At this point I had changed the game completely, as no student was looking for garden jobs during that time period.
+
+I came across Gardening 4 U and I loved working there. I got training, was paid well, and helped the business market some brochures. It was physically demanding and involved exposure to heat, but it was only preparing me for what was coming next. At one point, I was doing three jobs along with my study assignments and everything together. Garden experience helped me make connections with more people, and I got to know about bush regeneration jobs. Again, I started looking for small companies who might need some help, which gave me another job along with a cafe job to cover enough hours.
+
+All these roles were well thought out and researched steps to reach closer to what I love. I do not believe in luck. Bush regeneration was a dream: every day a new location and working with plants and animals to assist with restoration. It was super outdoors, in all weather conditions, battling with leeches and ticks more than spiders and snakes, I would say. I do not think people should fear spiders and snakes in Australia, although it is quite a thing on social media.
+
+Dream almost got to end when my course was about to wrap up and I was doing an internship as a part of my final elective subject where I had to work with an industry partner. This is where I started working with a project called EcoCommons. It was mainly for the grades at first, but then I could see how I could cover gaps by using this revolutionary technology in field science. I got deeply involved with ecological modelling.
+
+For my final presentation, I used my field experience to build a use case for this platform using a real example of species interaction called Richmond butterfly and its reaction to host plants at different altitudes of Richmond vines, and everybody loved it. I wanted to do a part two of it with the villain in the story but could not make time (I should do it soon). I was then offered a casual continuing position with Griffith University as staff.
+
+Adaptation was quite different from fieldwork, but I had the hunger to make my work have a bigger impact by combining these. Learning code was quite daunting, but I always had an angle for technology, even fixing things almost like an engineer. Fortunately, we had a lot of training available in the university, our platform, and scientific articles to learn from. I just had to let myself absorb the challenges we were facing to save the project first and then upskill in a direction where I could increase impact or build a path with emerging technological advancements. This allowed me to explore different sides of project management and learn each component of how things operate to understand and improve workflows and user experience. I worked with species survey data, environmental and climate data, machine learning and statistical algorithms, and threatened species research.
+
 ## 6. Challenges and How I Addressed Them ⚡
 
 🚀 **Pushing new boundaries:** IGNOU did not used to offer year-wise mark sheets, which are required for international university admissions. I worked directly with the system to change this foundation and enable overseas education for IGNOU students. I became the first student to enable the year-wise mark sheet format for those applying outside India. Before me, no student had officially gained international admission through IGNOU. Whenever I feel down, I recall what one person's voice can do to push a system to change its methods.
@@ -96,7 +116,21 @@ I also battled societal questions and concerns, but most of us have our own batt
 
 ## 7. Current Work 🔬
 
-I work on threatened species, ecological interactions, and biodiversity projects:
+I currently work with **QCIF Digital Research** as a Data Ecologist. QCIF's mission is to help researchers and organizations use advanced computing, data science, and digital tools to solve complex real‑world problems, from climate science to biodiversity conservation.
+
+As a **Data Ecologist**, my role is to connect ecology with technology. Nature produces enormous amounts of data—from satellite images, climate records, acoustic sensors, and species observations. My work is to analyze this information using data science, spatial analysis (GIS), ecological modelling, and sometimes machine learning to understand patterns in ecosystems.
+
+For example, we may want to answer questions like:
+
+    Q. Where is a threatened species most likely to survive in the future?
+
+    Q. How will climate change affect its habitat?
+
+    Q. Where should conservation teams place monitoring sensors or focus restoration work?
+
+To answer these questions, I combine field ecology knowledge with computational tools. I build models that bring together environmental variables such as rainfall, temperature, vegetation type, and landscape structure. These models help scientists and conservation managers make better decisions about where to protect habitats or invest conservation resources.
+
+In simple terms, my job is to turn environmental data into insights that help protect biodiversity. It involves working on threatened species, ecological interactions, and biodiversity projects:
 
 **Skills needed:**
 
